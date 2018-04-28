@@ -12,6 +12,9 @@ set guicursor+=n:blinkon0
 set belloff=all
 set novisualbell
 
+" do not distinguish between unnamed register and "* register
+set clipboard+=unnamed
+
 " source the default configuration for windows
 source $VIMRUNTIME/mswin.vim
 
