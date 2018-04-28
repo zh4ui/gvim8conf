@@ -19,4 +19,3 @@ source $VIMRUNTIME/mswin.vim
 iunmap <C-Y>
 cunmap <C-F>
 
-colorscheme office-light
