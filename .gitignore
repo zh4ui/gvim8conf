@@ -1,0 +1,5 @@
+
+vim80
+*.sw?
+*.un~
+.netrwhist
