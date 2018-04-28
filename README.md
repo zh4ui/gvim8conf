@@ -9,6 +9,8 @@
 
 - This recommended package manager is https://github.com/k-takata/minpac, which is integrated as a git submodule.
 
+- Git for windows must be installed and the command git must be exposed in PATH.
+
 ## Installation
 
 - Press Win+R and enter %APPDATA% to open the folder, and clone this repo into it: `git clone --recursive `https://github.com/zh4ui/gvim8conf.git vim`.
