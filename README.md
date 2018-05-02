@@ -1,6 +1,8 @@
 
 # A Starter Configuration for gVim 8
 
+![gvim8conf.JPG](gvim8conf.JPG)
+
 ## Introduction
 
 - The recommended gVim distribution is https://github.com/vim/vim-win32-installer/.  
