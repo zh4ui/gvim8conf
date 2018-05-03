@@ -32,4 +32,5 @@ source $VIMRUNTIME/mswin.vim
 " cancel some mappings set in mswin.vim
 iunmap <C-Y>
 cunmap <C-F>
+nunmap <C-F>
 
