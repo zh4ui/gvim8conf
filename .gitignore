@@ -1,6 +1,3 @@
-vimfiles/pack/minpac
-conf.vim
 vim80
 *.sw?
 *.un~
-.netrwhist
