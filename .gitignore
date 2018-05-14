@@ -1,3 +1,4 @@
 vim80
 *.sw?
 *.un~
+_vimrc
